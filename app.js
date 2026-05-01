@@ -11,8 +11,3 @@ while (summa <=2 * S) {
 
 console.log("Oylar soni:", k);
 console.log("Bankdagi summa:", summa);
-
-
-
-
-let n = salom
